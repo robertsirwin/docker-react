@@ -19,9 +19,9 @@ deploy:
   on:
     branch: main
   access_key_id:
-    secure: $AWS_ACCESS_KEY
+    secure: "AKIA35GUV5KGV32G4MHG"
   secret_access_key: 
-    secure: $AWS_SECRET_KEY
+    secure: "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"
 
 #docker-react-travis-ci
 #access_key_id: $AWS_ACCESS_KEY
